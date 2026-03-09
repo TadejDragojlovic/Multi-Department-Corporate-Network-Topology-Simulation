@@ -3,7 +3,9 @@ This project is a full-scale network simulation for a corporate environment cons
 The objective was to build a scalable, secure, and efficient network that facilitates inter-departmental communication while maintaining strict access controls and providing reliable internet connectivity.
 
 <br>
+
 ![Network topology preview](packettracer_topology.png)
+
 <br>
 
 ### Features
